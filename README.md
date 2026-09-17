@@ -1,1 +1,4 @@
 # IoT-Based-Smart-Plant-Maintenance-Watering-System
+<p align="justify">The IoT-Based Smart Plant Maintenance & Watering System is an automated environmental monitoring ecosystem designed to optimize agricultural and garden management using real-time sensor data. The system tracks critical health metrics—including soil moisture levels, ambient temperature, relative humidity, and motion-based animal intrusion—delivering precise, data-driven irrigation while protecting crops. </p> 
+
+<p align="justify">Built using the Arduino IDE framework and integrated with the Blynk IoT cloud platform, the solution features an interactive dashboard for remote monitoring, live alert notifications, and automated water pump triggers. To ensure continuous operational control, the system provides a manual override feature, allowing users to adjust irrigation schedules remotely or locally whenever necessary.</p>
